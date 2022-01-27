@@ -9,7 +9,7 @@
 - **최연찬**(School of Mechanical Engineering, Chung-Ang Univ)
 
 ## Abstract
-CNN의 ResNet50, RNN의 LSTM을 활용해 모델을 구축하고 학습시킨다. 이 후 하이퍼 파라미터(batch, learning_rate, dropout_rate)의 변화를 준 뒤, 각 시행 별로 나오는 Test & Validation Error의 변화 그래프를 고찰 및 분석한다.
+CNN의 ResNet50, RNN의 LSTM을 활용해 모델을 구축하고 학습시킨다. 이 후 하이퍼 파라미터(batch_size, learning_rate, dropout_rate)의 변화를 준 뒤, 각 시행 별로 나오는 Test & Validation Error의 변화 그래프를 고찰 및 분석한다.
 
 ## Topic 
 농업 환경 변화에 따른 작물 병해 진단 AI
