@@ -17,6 +17,9 @@ CNN의 ResNet50, RNN의 LSTM을 활용해 모델을 구축하고 학습시킨다
 ## Data
 Dacon(https://dacon.io/competitions/official/235870/data)의 데이터 셋 활용
 
+## 참고 자료
+[parameter_analysis.docx](https://github.com/CUAI-CAU/CNN_X_LSTM_smartfactory/files/8001235/parameter_analysis.docx)
+
 ## Conclusion
 1.	Batch size가 1일 때와 8일 때를 비교해 보면, Batch size가 큰 경우 train error이 전반적으로 낮게 측정이 되는 것을 알 수 있습니다. 따라서 성능을 극대화할 수 있는 Batch size의 크기를 찾고 학습을 진행하는 것이 모델의 성능을 향상시키는데 중요한 요소일 것입니다.
 
